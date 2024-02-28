@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
-<h3 align="center">Software Engineer | Full Stack | Back-end Specialist from Brazil</h3>
+<h3 align="center">Software Engineer | Full Stack | Backend Specialist from Brazil</h3>
 
 <img src="https://github.com/sbrito2/sbrito2/blob/main/img/main-banner.png" width="100%">
 
